@@ -17,4 +17,5 @@ features = [
   "model",
   "standard_framework", 
   "rustls_backend",
-  
+  "utils",
+]
